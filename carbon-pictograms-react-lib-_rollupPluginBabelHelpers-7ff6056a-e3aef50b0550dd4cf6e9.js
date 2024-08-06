@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcarbondesignsystem=self.webpackChunkcarbondesignsystem||[]).push([[943305],{315447:function(n,e){function s(){return s=Object.assign?Object.assign.bind():function(n){for(var e=1;e<arguments.length;e++){var s=arguments[e];for(var r in s)({}).hasOwnProperty.call(s,r)&&(n[r]=s[r])}return n},s.apply(null,arguments)}e._extends=s}}]);
