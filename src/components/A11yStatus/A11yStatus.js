@@ -93,8 +93,7 @@ const A11yStatus = ({ components, layout }) => {
         githubUrl = `https://github.com/carbon-design-system/carbon/tree/main/packages/react/src/components/${githubComponentName
           .replace(/\b\w/g, (char) => char.toUpperCase())
           .replace(/\s+/g, '')}`;
-      }
-      else {
+      } else {
         githubUrl = `https://github.com/carbon-design-system/carbon/tree/main/packages/react/src/components/${componentName
           .replace(/\b\w/g, (char) => char.toUpperCase())
           .replace(/\s+/g, '')}`;
